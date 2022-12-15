@@ -20,9 +20,8 @@ ament_target_dependencies(subscriber_member_function rclcpp std_msgs)
 
 
 install(TARGETS
-  subscriber_lambda
+  
   subscriber_member_function
-  subscriber_not_composable
   DESTINATION lib/${PROJECT_NAME})
 
 if(BUILD_TESTING)
