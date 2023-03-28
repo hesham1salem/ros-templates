@@ -1,3 +1,0 @@
-# Minimal subscriber cookbook recipes
-
-\
